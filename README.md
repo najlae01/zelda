@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simplified version of the classic game "The Legend of Zelda" developed as part of the CS50 Introduction to Game Development course. In this game, players control a character who must navigate through dungeons, defeat enemies, and solve puzzles to progress.
+This is a simplified version of the classic game **The Legend of Zelda** developed as part of the CS50 Introduction to Game Development course. In this game, players control a character who must navigate through dungeons, defeat enemies, and solve puzzles to progress.
 
 ![zelda](https://github.com/najlae01/zelda/assets/88176530/a004ac3e-ca2f-452d-93a1-8b9db8860795)
 
@@ -17,9 +17,9 @@ This is a simplified version of the classic game "The Legend of Zelda" developed
 
 ## Additional Features (from Game Dev Specifications)
 
-1. **Healing Hearts**: Implement hearts that sometimes drop from vanquished enemies at random, which will heal the player for a full heart when picked up (consumed). 
+1. **Healing Hearts**: Random Dropped Hearts from some vanquished enemies, which will heal the player for a full heart when picked up. 
 
-2. **Carrying and Throwing Pots**: Add pots to the game world that the player can pick up, carry over his head, and throw at walls or enemies. When thrown, the pot should disappear upon collision with a wall or enemy, inflicting damage on enemies.
+2. **Carrying and Throwing Pots**: The player can pick up pots, carry them over, and throw them at walls or enemies. When thrown, the pot disappears upon collision with a wall or enemy, inflicting damage on enemies.
 
 
 ## Controls
