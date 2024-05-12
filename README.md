@@ -21,7 +21,6 @@ This is a simplified version of the classic game "The Legend of Zelda" developed
 
 2. **Carrying and Throwing Pots**: Add pots to the game world that the player can pick up, carry over his head, and throw at walls or enemies. When thrown, the pot should disappear upon collision with a wall or enemy, inflicting damage on enemies.
 
-These additional features are not implemented in this version but can be considered for future development.
 
 ## Controls
 
